@@ -1,4 +1,4 @@
-# Developer Community Feline Preditor here👌
+# Developer Community (Feline Preditor here)👌
 
 Welcome to the Developer Community! This is a space for developers of all skill levels to ask questions, share knowledge, and collaborate on coding problems.
 
