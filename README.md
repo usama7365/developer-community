@@ -15,7 +15,7 @@ Welcome to the Developer Community! This is a space for developers of all skill 
 - Provide as much detail as possible when asking questions.
 - Use the appropriate tags for your issues.
 
-## Getting Started
+## Getting Started:
 
 1. **Star this repository** to stay updated.
 2. **Fork this repository** to contribute your own code.
